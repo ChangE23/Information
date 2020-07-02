@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 # ChangE
 <br>
 <h1> Programming</h1>
@@ -19,18 +20,6 @@
 <li>  Go</li>
 <li>  Python</li>
 <br>
-<!DOCTYPE html>
-<html>
-<body>
-    <input type="button" id="hw" value="Hello world" />
-    <script type="text/javascript">
-        var hw = document.getElementById('hw');
-        hw.addEventListener('click', function(){
-            alert('Hello world');
-        })
-    </script>
-</body>
-</html>
 
 rest
 acid원칙
