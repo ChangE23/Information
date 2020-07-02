@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 # GichangPublic
 
 <h1> Programming</h1>
