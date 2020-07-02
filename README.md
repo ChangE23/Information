@@ -28,11 +28,8 @@
 <li>  Go</li>
 <li>  Python</li>
 <br>
-<stlye>
-width: 100%;
-background-image: url("pawel-nolbert-xe-ss5Tg2mo-unsplash.jpg");
+<img src="pawel-nolbert-xe-ss5Tg2mo-unsplash.jpg" width"100%"> 
 
-</stlye>
 <div id="lv-container" data-id="city" data-uid="MTAyMC81MDg1Ny8yNzMzOQ==">
 	<script type="text/javascript">
    (function(d, s) {
@@ -103,5 +100,4 @@ s0.parentNode.insertBefore(s1,s0);
 
 </P>	
 
- <img src="pawel-nolbert-xe-ss5Tg2mo-unsplash.jpg" width"100%"> 
- background-image: url("/pawel-nolbert-xe-ss5Tg2mo-unsplash.jpg");
+ 
