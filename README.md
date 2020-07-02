@@ -49,7 +49,7 @@ authentication
 distributed systems
 CAP theorem
 base 
-
+<p>
 <div id="disqus_thread"></div>
 <script>
 
@@ -70,7 +70,8 @@ s.setAttribute('data-timestamp', +new Date());
 })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-                    
+ </P>      
+ <p>
 <!--Start of Tawk.to Script-->
 <script type="text/javascript">
 var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
@@ -84,3 +85,4 @@ s0.parentNode.insertBefore(s1,s0);
 })();
 </script>
 <!--End of Tawk.to Script-->
+</p>
