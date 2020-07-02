@@ -5,18 +5,18 @@
 <br>
 <ul> To Do List</ul>
 <br>
-<li> HTML </li>
-<li> PHP </li>
-<li> Node JS </li>
-<li> APACHE </li>
+<li>   HTML </li>
+<li>   PHP </li>
+<li>  Node JS </li>
+<li>  APACHE </li>
 <br>
-<li> HTTP </li>
-<li> TCP/IP </li>
-<li> DNS </li>
-<li>NO SQL</li>
+<li>  HTTP </li>
+<li>  TCP/IP </li>
+<li>  DNS </li>
+<li>  NO SQL</li>
 <br>
-<li>Go</li>
-<li>Python</li>
+<li>  Go</li>
+<li>  Python</li>
 <br>
 
 rest
