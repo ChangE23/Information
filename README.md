@@ -1,6 +1,6 @@
 # ChangE
 <br>
-<h1> Programming<!-- Global site tag (gtag.js) - Google Analytics -->
+<head> Programming<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-171540791-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -9,7 +9,7 @@
 
   gtag('config', 'UA-171540791-1');
 </script>
-</h1>
+</head>
 <br>
 <br>
 <ul><strong>To Do List</strong></ul>
