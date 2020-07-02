@@ -9,7 +9,6 @@
 <li> HTTP </li>
 <li> TCP/IP </li>
 <li> DNS </li>
-<br>
 <li>NO SQL</li>
 <br>
 <li>Go</li>
