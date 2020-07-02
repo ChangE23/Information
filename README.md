@@ -3,7 +3,7 @@
 <h1> Programming</h1>
 <br>
 <br>
-<ul>To Do List</ul>
+<strong><ul>To Do List</ul></strong>
 <br>
 <li>   HTML </li>
 <li>   PHP </li>
