@@ -9,7 +9,7 @@
   gtag('config', 'UA-171540791-1');
 </script>
 </head>
-
+<meta property="og:image" content="https://github.com/ChangE23/Public/blob/master/pawel-nolbert-xe-ss5Tg2mo-unsplash.jpg" />
 <br>
 <br>
 <stlye>
