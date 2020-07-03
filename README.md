@@ -11,7 +11,15 @@
 </head>
 <br>
 <br>
-<ul><strong>To Do List</strong></ul>
+<stlye>
+	a{
+	color:black;
+	text-decoration: none;
+}
+	h1{
+	font-size:30px;
+	text-align: center;
+<hl><strong>To Do List</strong></hl>
 <br>
 <stlye>
 	a {
