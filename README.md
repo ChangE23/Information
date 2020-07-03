@@ -1,7 +1,7 @@
 # ChangE
 <head> Programming<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-171540791-1"></script>
-<script>
+<script>	
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
@@ -9,23 +9,20 @@
   gtag('config', 'UA-171540791-1');
 </script>
 </head>
+
 <br>
 <br>
 <stlye>
-	a{
-	color:black;
-	text-decoration: none;
-}
-	h1{
-	font-size:30px;
-	text-align: center;
+	ol {
+      display: table;
+      margin-left: auto;
+      margin-right: auto;
+    }
+</stlye>
+	
 <hl><strong>To Do List</strong></hl>
 <br>
-<stlye>
-	a {
-	color:blue;
-	}
-</stlye>
+
 <br>
 <li>   HTML </li>
 <li>   PHP </li>
