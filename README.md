@@ -15,7 +15,7 @@
 <br>
 <stlye>
 	a {
-	color:black;
+	color:blue;
 	}
 </stlye>
 <br>
