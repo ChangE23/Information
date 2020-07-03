@@ -14,9 +14,9 @@
 <ul><strong>To Do List</strong></ul>
 <br>
 <stlye>
-a {
-color :black;
-}
+	a {
+	color:black;
+	}
 </stlye>
 <br>
 <li>   HTML </li>
