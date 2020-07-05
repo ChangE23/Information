@@ -12,13 +12,7 @@
 <meta property="og:image" content="https://github.com/ChangE23/Public/blob/master/pawel-nolbert-xe-ss5Tg2mo-unsplash.jpg" />
 <br>
 <br>
-<stlye>
-	ol {
-      display: table;
-      margin-left: auto;
-      margin-right: auto;
-    }
-</stlye>
+
 	
 <hl><strong>To Do List</strong></hl>
 <br>
