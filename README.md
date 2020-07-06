@@ -30,7 +30,7 @@
 <br>
 <li>  AWS archi </li>
 <br>
-
+<src
 
 <div id="lv-container" data-id="city" data-uid="MTAyMC81MDg1Ny8yNzMzOQ==">
 	<script type="text/javascript">
@@ -47,6 +47,9 @@
    })(document, 'script');
 	</script>
 <noscript> 라이브리 댓글 작성을 위해 JavaScript를 활성화 해주세요</noscript>
+
+<img src="https://github.com/ChangE23/Pers.Info/blob/master/pawel-nolbert-xe-ss5Tg2mo-unsplash.jpg" width="100%"/>
+
 
 
 </div>
