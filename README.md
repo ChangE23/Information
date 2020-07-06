@@ -28,6 +28,8 @@
 <li>  Go</li>
 <li>  Python</li>
 <br>
+<li>  AWS archi </li>
+<br>
 
 
 <div id="lv-container" data-id="city" data-uid="MTAyMC81MDg1Ny8yNzMzOQ==">
