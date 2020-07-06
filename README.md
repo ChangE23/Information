@@ -10,7 +10,7 @@
   gtag('config', 'UA-171540791-1');
 </script>
 
-	
+<br>	
 <hl><strong>To Do List</strong></hl>
 <br>
 
@@ -28,7 +28,7 @@
 <li>  Go</li>
 <li>  Python</li>
 <br>
-<img src="pawel-nolbert-xe-ss5Tg2mo-unsplash.jpg" width"100%"> 
+
 
 <div id="lv-container" data-id="city" data-uid="MTAyMC81MDg1Ny8yNzMzOQ==">
 	<script type="text/javascript">
