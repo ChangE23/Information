@@ -9,11 +9,6 @@
 
   gtag('config', 'UA-171540791-1');
 </script>
-<!DOCTYPE html>
-<html>
-  <head>
-    <link rel="shortcut icon" type="image/x-icon" href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/800px-Apple_logo_black.svg.png">
-  </head>
 </head>
 <meta property="og:image" content="https://github.com/ChangE23/Public/blob/master/pawel-nolbert-xe-ss5Tg2mo-unsplash.jpg" />
 <br>
