@@ -101,5 +101,4 @@ s0.parentNode.insertBefore(s1,s0);
 
 </P>	
 
- 
-thx to 
+ contect https://github.com/ChangE23 
