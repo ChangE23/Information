@@ -52,6 +52,7 @@
 <a href="https://github.com/ChangE23/Pers.Info/blob/master/pawel-nolbert-xe-ss5Tg2mo-unsplash.jpg"/>
 
 
+<img src="https://github.com/ChangE23/Pers.Info/blob/master/pawel-nolbert-xe-ss5Tg2mo-unsplash.jpg", "width100%">
 
 </div>
 
