@@ -29,6 +29,8 @@
 <li>  Python</li>
 <br>
 <li>  AWS archi </li>
+
+<li> etc : rest, acid원칙, socket,data storage,cashing,redis,mem cached,authentication,distributed systems,CAP theorem base 
 <br>
 <src
 
@@ -52,18 +54,7 @@
 
 
 </div>
-etc : 
-rest
-acid원칙
-socket
-data storage 
-cashing
-redis
-mem cached
-authentication
-distributed systems
-CAP theorem
-base 
+
 <br>
 <p>
 <div id="disqus_thread"></div>
