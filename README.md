@@ -52,7 +52,7 @@
 
 
 </div>
-
+etc : 
 rest
 acid원칙
 socket
@@ -64,6 +64,7 @@ authentication
 distributed systems
 CAP theorem
 base 
+<br>
 <p>
 <div id="disqus_thread"></div>
 <script>
