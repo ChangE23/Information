@@ -32,7 +32,7 @@
 
 <li> etc : rest, acid원칙, socket,data storage,cashing,redis,mem cached,authentication,distributed systems,CAP theorem base 
 <br>
-<src
+
 
 <div id="lv-container" data-id="city" data-uid="MTAyMC81MDg1Ny8yNzMzOQ==">
 	<script type="text/javascript">
