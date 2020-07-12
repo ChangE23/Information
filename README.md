@@ -44,7 +44,7 @@
 <noscript> 라이브리 댓글 작성을 위해 JavaScript를 활성화 해주세요</noscript>
 	</div>
 	<br>
-	</body>
+	
 	<p>
 	<div id="disqus_thread"></div>
 	
@@ -83,5 +83,5 @@
 	</script>
 	<!--End of Tawk.to Script-->
 	</p>
-</html>
+
 
