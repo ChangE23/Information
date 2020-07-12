@@ -18,12 +18,12 @@
 		<li> TCP/IP</li>
 		<li> TCP/IP Protocol Suite </li>
 		<br>
-	<h3><a href="http://hanjari.cf">DEV</a></h3>
+	<h3><a href="https://github.com/ChangE23">DEV</a></h3>
 		<li> Go </li>
 		<li> Python  </li>
 		<li> Rust </li>
 		<br>
-	<h3><a href="https://github.com/ChangE23">Project</a></h3>
+	<h3><a href="https://aws.amazon.com/marketplace/?nc2=h_ql_mp_m">Project</a></h3>
 		<li>  AWS Devops </li>
 		<li> AWS Blockchain </li>
 		<li> GFS, HDFS,NoSQL </li>
