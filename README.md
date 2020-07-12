@@ -10,7 +10,7 @@
 		<br>	
 		<hl><strong><a href="https://github.com/ChangE23">ChangE's</a> <span style="color:red">T<span style="color:orange">o<span style="color:yellow">D<span style="color:green">o<span style="color:blue">L<span style="color:navy">i<span style="color:puple">st<span style="color:gray">
 			<br>
-	<h3><a href="https://change23.github.io/my_blog/">Ops </a>
+	<h3><a href="https://change23.github.io/my_blog/">Ops</a>
 		<br>
 		<li> LAMP   </li>
 		<li> OSI  </li>
@@ -28,7 +28,6 @@
 		<li> GFS, HDFS,NoSQL </li>
 		<br>
 		<br>
-
 <div id="lv-container" data-id="city" data-uid="MTAyMC81MDg1Ny8yNzMzOQ==">
 	<script type="text/javascript">
 	   (function(d, s) {
@@ -40,14 +39,11 @@
 	       e.parentNode.insertBefore(j, e);
 	   })(document, 'script');
 	</script>
-
 <noscript> 라이브리 댓글 작성을 위해 JavaScript를 활성화 해주세요</noscript>
 	</div>
 	<br>
-	
 	<p>
-	<div id="disqus_thread"></div>
-	
+	<div id="disqus_thread"></div>	
 	<script>
 	/**
 	*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
@@ -67,7 +63,6 @@
 	</script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 	 </P>      
-
 	<p>
 		<!--Start of Tawk.to Script-->
 	<script type="text/javascript">
