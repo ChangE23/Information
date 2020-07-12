@@ -102,4 +102,5 @@ s0.parentNode.insertBefore(s1,s0);
 
 </P>	
 
-offering https://change23.github.io/my_blog/marketing/2016/08/12/the-history-of-marketing/
+offering<a href="https://change23.github.io/my_blog/marketing/2016/08/12/the-history-of-marketing/
+">ChangE's offering</a> 
