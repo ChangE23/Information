@@ -9,19 +9,23 @@
 <br>	
 <hl><strong><a href="https://github.com/ChangE23">ChangE's</a> <span style="color:red">T<span style="color:orange">o<span style="color:yellow">D<span style="color:green">o<span style="color:blue">L<span style="color:navy">i<span style="color:puple">st<span style="color:gray">
 	<br>
+	<h4>Ops </h4>
 <br>
-<li>   HTML </li>
-<li>   PHP </li>
-<li>  Node JS </li>
-<li>  APACHE </li>
+<li> LAMP   </li>
 <br>
-<li>  HTTP </li>
-<li>  TCP/IP </li>
-<li>  DNS </li>
-<li>  NO SQL</li>
+<li> OSI  </li>
+<li> TCP/IP  </li>
+<li> TCP/IP Protocol Suite </li>
+	<h4>DEV </h4>
 <br>
-<li>  Go</li>
-<li>  Python</li>
+<li> Go </li>
+<li> Python  </li>
+<li> Rust </li>
+<br>
+	<h4>Project </h4>
+<li>  AWS Devops </li>
+<li> AWS Blockchain </li>
+<li> GFS, HDFS,NoSQL </li>
 <br>
 <li>  AWS archi </li>
 <li> etc : rest, acid원칙, socket,data storage,cashing,redis,mem cached,authentication,distributed systems,CAP theorem base 
