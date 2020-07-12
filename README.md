@@ -102,4 +102,4 @@ s0.parentNode.insertBefore(s1,s0);
 
 </P>	
 
-<a href="https://change23.github.io/my_blog/">ChangE's offering</a> 
+<a href="https://change23.github.io/my_blog/">ChangE23 preparing stuff"</a> 
