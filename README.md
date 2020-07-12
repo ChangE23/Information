@@ -42,7 +42,6 @@
 	</script>
 
 <noscript> 라이브리 댓글 작성을 위해 JavaScript를 활성화 해주세요</noscript>
-	<a href='https://ifh.cc/v-dTdpqh' target='_blank'><img src='https://ifh.cc/g/dTdpqh.jpg' border='0'></a>
 	</div>
 	<br>
 	</body>
