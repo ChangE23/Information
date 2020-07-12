@@ -10,20 +10,20 @@
 		<br>	
 		<hl><strong><a href="https://github.com/ChangE23">ChangE's</a> <span style="color:red">T<span style="color:orange">o<span style="color:yellow">D<span style="color:green">o<span style="color:blue">L<span style="color:navy">i<span style="color:puple">st<span style="color:gray">
 			<br>
-	<h4><a href="https://change23.github.io/my_blog/">Ops </h4>
+	<h2><a href="https://change23.github.io/my_blog/">Ops </h2>
 		<br>
 		<li> LAMP   </li>
 		<br>
 		<li> OSI  </li>
 		<li> TCP/IP  </li>
-		<li> TCP/IP Protocol Suite </li>
-	<h4><a href="http://hanjari.cf">DEV</h4>
+		<li> TCP/IP Protocol Suite </li>		
+	<h2><a href="http://hanjari.cf">DEV</h2>
 		<br>
 		<li> Go </li>
 		<li> Python  </li>
 		<li> Rust </li>
 		<br>
-	<h4><a href="https://github.com/ChangE23">Project</h4>
+	<h2><a href="https://github.com/ChangE23">Project</h2>
 		<li>  AWS Devops </li>
 		<li> AWS Blockchain </li>
 		<li> GFS, HDFS,NoSQL </li>
@@ -31,7 +31,7 @@
 
 		<br>
 <div id="lv-container" data-id="city" data-uid="MTAyMC81MDg1Ny8yNzMzOQ==">
-		<script type="text/javascript">
+	<script type="text/javascript">
 	   (function(d, s) {
 	       var j, e = d.getElementsByTagName(s)[0];
 	       if (typeof LivereTower === 'function') { return; }
@@ -40,10 +40,9 @@
 	       j.async = true;
 	       e.parentNode.insertBefore(j, e);
 	   })(document, 'script');
-		</script>
+	</script>
 
 <noscript> 라이브리 댓글 작성을 위해 JavaScript를 활성화 해주세요</noscript>
-	<a href="https://github.com/ChangE23/Pers.Info/blob/master/pawel-nolbert-xe-ss5Tg2mo-unsplash.jpg"/>
 	<a href='https://ifh.cc/v-dTdpqh' target='_blank'><img src='https://ifh.cc/g/dTdpqh.jpg' border='0'></a>
 	</div>
 	<br>
