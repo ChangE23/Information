@@ -10,27 +10,27 @@
 		<br>	
 		<hl><strong><a href="https://github.com/ChangE23">ChangE's</a> <span style="color:red">T<span style="color:orange">o<span style="color:yellow">D<span style="color:green">o<span style="color:blue">L<span style="color:navy">i<span style="color:puple">st<span style="color:gray">
 			<br>
-			<h4><a href="https://change23.github.io/my_blog/">Ops </h4>
+	<h4><a href="https://change23.github.io/my_blog/">Ops </h4>
 		<br>
 		<li> LAMP   </li>
 		<br>
 		<li> OSI  </li>
 		<li> TCP/IP  </li>
 		<li> TCP/IP Protocol Suite </li>
-			<h4><a href="http://hanjari.cf">DEV</h4>
-			<br>
+	<h4><a href="http://hanjari.cf">DEV</h4>
+		<br>
 		<li> Go </li>
 		<li> Python  </li>
 		<li> Rust </li>
 		<br>
-			<h4><a href="https://github.com/ChangE23">Project</h4>
+	<h4><a href="https://github.com/ChangE23">Project</h4>
 		<li>  AWS Devops </li>
 		<li> AWS Blockchain </li>
 		<li> GFS, HDFS,NoSQL </li>
 		<br>
 
 		<br>
-	<div id="lv-container" data-id="city" data-uid="MTAyMC81MDg1Ny8yNzMzOQ==">
+<div id="lv-container" data-id="city" data-uid="MTAyMC81MDg1Ny8yNzMzOQ==">
 		<script type="text/javascript">
 	   (function(d, s) {
 	       var j, e = d.getElementsByTagName(s)[0];
@@ -42,34 +42,36 @@
 	   })(document, 'script');
 		</script>
 
-	<noscript> 라이브리 댓글 작성을 위해 JavaScript를 활성화 해주세요</noscript>
+<noscript> 라이브리 댓글 작성을 위해 JavaScript를 활성화 해주세요</noscript>
 	<a href="https://github.com/ChangE23/Pers.Info/blob/master/pawel-nolbert-xe-ss5Tg2mo-unsplash.jpg"/>
 	<a href='https://ifh.cc/v-dTdpqh' target='_blank'><img src='https://ifh.cc/g/dTdpqh.jpg' border='0'></a>
 	</div>
 	<br>
-	<p>
-	<div id="disqus_thread"></div>
 	</body>
+<p>
+	<div id="disqus_thread"></div>
+	
 <script>
-/**
-*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-/*
-var disqus_config = function () {
-this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-};
-*/
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-s.src = 'https://https-change23-github-io-public.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
+	/**
+	*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+	*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+	/*
+	var disqus_config = function () {
+	this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+	this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+	};
+	*/
+	(function() { // DON'T EDIT BELOW THIS LINE
+	var d = document, s = d.createElement('script');
+	s.src = 'https://https-change23-github-io-public.disqus.com/embed.js';
+	s.setAttribute('data-timestamp', +new Date());
+	(d.head || d.body).appendChild(s);
+	})();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
  </P>      
- <p>
+
+<p>
 	<!--Start of Tawk.to Script-->
 <script type="text/javascript">
 var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
@@ -84,6 +86,5 @@ s0.parentNode.insertBefore(s1,s0);
 </script>
 <!--End of Tawk.to Script-->
 </p>
-<p>
-</P>	
-<a href="https://change23.github.io/my_blog/">ChangE23 preparing stuff"</a> 
+</html>
+
