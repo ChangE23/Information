@@ -10,19 +10,19 @@
 		<br>	
 		<hl><strong><a href="https://github.com/ChangE23">ChangE's</a> <span style="color:red">T<span style="color:orange">o<span style="color:yellow">D<span style="color:green">o<span style="color:blue">L<span style="color:navy">i<span style="color:puple">st<span style="color:gray">
 			<br>
-	<h3><a href="https://change23.github.io/my_blog/">Ops</a>
+	<h3><a href="https://change23.github.io/my_blog/">Ops</a></h3>
 		<br>
 		<li> LAMP   </li>
 		<li> OSI  </li>
 		<li> TCP/IP  </li>
 		<li> TCP/IP Protocol Suite </li>		
-	<h3><a href="http://hanjari.cf">DEV</a>
+	<h3><a href="http://hanjari.cf">DEV</a></h3>
 		<br>
 		<li> Go </li>
 		<li> Python  </li>
 		<li> Rust </li>
 		<br>
-	<h3><a href="https://github.com/ChangE23">Project</a>
+	<h3><a href="https://github.com/ChangE23">Project</a></h3>
 		<li>  AWS Devops </li>
 		<li> AWS Blockchain </li>
 		<li> GFS, HDFS,NoSQL </li>
