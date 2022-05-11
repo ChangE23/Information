@@ -6,7 +6,7 @@
 
 <body>
   <h1><a href="https://github.com/ChangE23"> ChangE23 </a><span style="color:red"><span style="color:orange"><span style="color:yellow"><span 
-	style="color:green"><span style="color:blue"><span style="color:navy"><span style="color:puple"><span style="color:gray"></h1>
+	</h1>
   <div id="grid">
     <ol>
       <li><a href="https://change23.github.io/my_blog/">Dev</a></li>
