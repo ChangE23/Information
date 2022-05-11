@@ -8,10 +8,7 @@
   <h1><a href="https://github.com/ChangE23"> ChangE23 </a><span style="color:red"><span style="color:orange"><span style="color:yellow"><span 
 	</h1>
   <div id="grid">
-    <ol>
-  
-      <li><a href="https://github.com/ChangE23">Project</a></li>
-    </ol>
+   
 	
 	
 <br>	
