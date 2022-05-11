@@ -9,8 +9,7 @@
 	</h1>
   <div id="grid">
     <ol>
-      <li><a href="https://change23.github.io/my_blog/">Dev</a></li>
-      <li><a href="http://hanjari.cf">Ops</a></li>
+  
       <li><a href="https://github.com/ChangE23">Project</a></li>
     </ol>
 	
