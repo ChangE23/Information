@@ -19,7 +19,7 @@
 <hl><strong><a href="https://github.com/ChangE23">ChangE's</a> <span style="color:red">T<span style="color:orange">o<span style="color:yellow">D<span style="color:green">o<span style="color:blue">L<span style="color:navy">i<span style="color:puple">st<span style="color:gray">
 	<br>
 <br>
-<li>   Drone License </li>
+<li>   DRONE LICENSE </li>
 <li>   ROS </li>
 <li>   PIXHAWK </li>
 
