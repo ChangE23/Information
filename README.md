@@ -97,32 +97,3 @@
 	<div id="article">
         <h2>Content</h2>
 		<p>
-		<li>   LAMP </li>
-		<br>
-		<li>  OSI </li>
-		<li>  TCP/IP </li>
-		<li>  TCP/IP Protocol Suite </li>
-		<br>
-		<li>  Go</li>
-		<li>  Python</li>
-		<br>
-		<li>  AWS Devops </li>
-		<li>  AWS Blockchain </li>
-
-		<li> GFS, HDFS,NoSQL </li> 
-		<br>
-
-		</p>
-   	</div>
-	<div id="lv-container" data-id="city" data-uid="MTAyMC81MDg1Ny8yNzMzOQ==">
-		<script type="text/javascript">
-	   (function(d, s) {
-	       var j, e = d.getElementsByTagName(s)[0];
-	       if (typeof LivereTower === 'function') { return; }
-	       j = d.createElement(s);
-	       j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
-	       j.async = true;
-	       e.parentNode.insertBefore(j, e);
-	   })(document, 'script');
-		</script>
-
