@@ -92,8 +92,3 @@
       <li><a href="http://hanjari.cf">Ops</a></li>
       <li><a href="https://github.com/ChangE23">Project</a></li>
     </ol>
-
-	<div style="background-image: url('https://ifh.cc/v-LLucad][IMG]https://ifh.cc/g/LLucad.jpg');">
-	<div id="article">
-        <h2>Content</h2>
-		<p>
