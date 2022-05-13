@@ -31,5 +31,6 @@
 <img src="https://img.shields.io/badge/Drone-212121?style=flat-square&logo=Drone&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/GO-00ADD8?style=flat-square&logo=GO&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/></a>&nbsp 
 <br>
