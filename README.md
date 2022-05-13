@@ -34,4 +34,6 @@
 <img src="https://img.shields.io/badge/GO-00ADD8?style=flat-square&logo=GO&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp   
-<br>
+<img src="https://img.shields.io/badge/Raspberry-A22846?style=flat-square&logo=Raspberry&logoColor=white"/></a>&nbsp  
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>&nbsp  
+	<br>
