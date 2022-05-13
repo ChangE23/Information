@@ -36,6 +36,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp   
 <img src="https://img.shields.io/badge/Raspberry-A22846?style=flat-square&logo=Raspberry&logoColor=white"/></a>&nbsp  
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>&nbsp  
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=5C3EE8&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=00FFFF&logoColor=white"/></a>&nbsp
 	<br>
