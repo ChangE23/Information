@@ -41,4 +41,4 @@
 <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=00FFFF&logoColor=white"/></a>&nbsp
 	<br>
 
-<hl><strong><a href=" ">Portfolio</a> 
+<hl><strong><a href="https://github.com/ChangE23/Portfolio/issues">Portfolio</a> 
