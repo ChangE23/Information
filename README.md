@@ -27,6 +27,8 @@
 <br>
 <li>  C++</li>
 <li>  Python</li>
+<hl><strong><a href="https://github.com/ChangE23/Portfolio/issues">Portfolio</a> 
+
 <br>
 <img src="https://img.shields.io/badge/Drone-212121?style=flat-square&logo=Drone&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -41,4 +43,4 @@
 <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=00FFFF&logoColor=white"/></a>&nbsp
 	<br>
 
-<hl><strong><a href="https://github.com/ChangE23/Portfolio/issues">Portfolio</a> 
+
