@@ -16,7 +16,7 @@
 	<br>
 <br>
 <li>   DRONE LICENSE </li>
-<li>   ROS </li>
+<li>   R O S </li>
 <li>   PIXHAWK </li>
 
 <br>
