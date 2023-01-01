@@ -12,7 +12,7 @@
 	
 	
 <br>	
-<hl><strong><a href="https://github.com/ChangE23">PLAN</a> 
+<hl><strong>PLAN 
 	<br>
 <br>
 <li>   DRONE LICENSE </li>
