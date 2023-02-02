@@ -15,18 +15,15 @@
 <hl><strong>PLAN 
 	<br>
 <br>
-<li>   DRONE LICENSE </li>
-<li>   R O S </li>
-<li>   PIXHAWK </li>
+<li>   Application </li>
+<li>   Micro Service </li>
+<li>   Server </li>
 
 <br>
-<li>  OPENCV </li>
-<li>  YOLO </li>
-<li>  TENSERFLOW </li>
-
-<br>
-<li>  C++</li>
 <li>  Python</li>
+<li>  Golang</li>
+<li>  Dart</li>
+<li>  Rust</li>
 <li> <strong><a href="https://github.com/ChangE23/Portfolio/issues">Portfolio</a> </li>
 
 <br>
